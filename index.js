@@ -1,4 +1,3 @@
-require("dotenv").config(); // يقرأ ملف .env
 
 const {
   Client,
