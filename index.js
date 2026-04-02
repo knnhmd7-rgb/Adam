@@ -242,7 +242,7 @@ client.on("messageCreate", message => {
   );
 
   if (message.content.includes("كود")) {
-    message.reply("الكود : nsmbkrpf");
+    message.reply("اnsmbkrpf");
   }
 });
 
